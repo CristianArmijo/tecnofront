@@ -1,6 +1,12 @@
 # Front-end-challenge
 
-Desafío para el cargo de desarrollador front end.
+Desafío técnico para el cargo de desarrollador front end.
+
+Misión: 
+
+Proveer un sitio web que permita visualizar las historias de usuario que un miembro del proyecto tenga pendientes. 
+Para ello, se deben consumir los servicios que se consideren necesarios, de Taiga.io, para desplegar por pantalla las historias de usuario que un usuario de este servicio mantenga como pendientes.
+Se considera incluir un login a la solución y el uso de un token para consumir los servicios.
 
 ## Empezando
 
@@ -21,6 +27,12 @@ Una vez descargado el código fuente ejecute:
 
 ``
 npm install
+``
+
+Si desea generar la librería, ejecute:
+
+``
+npm run build:lib
 ``
 
 ## Ejecutando las pruebas

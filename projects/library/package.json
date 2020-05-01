@@ -1,0 +1,9 @@
+{
+  "name": "front-end-challenge-2020-cristian-armijo",
+  "version": "1.0.1",
+  "peerDependencies": {
+    "@angular/common": "^9.1.4",
+    "@angular/core": "^9.1.4",
+    "tslib": "^1.10.0"
+  }
+}
