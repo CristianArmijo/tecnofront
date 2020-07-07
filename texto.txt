@@ -2,4 +2,4 @@ Esto sera un texto en conflicto
 
 El conflicto se producira en la 3ra linea de texto
 
-ACA
+ACA trabajo2
